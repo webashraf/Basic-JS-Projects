@@ -1,3 +1,4 @@
+// Find vowel in user strings
 let vowel = [`a`, `e`, `i`, `o`, `u`];
 const latters = userLatter => {
 
