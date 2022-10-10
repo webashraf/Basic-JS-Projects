@@ -29,5 +29,6 @@ function largeName(name){
 
 
 let names2 = [`AAA`, `BBBBB`, `CCCCCCCCCCCCCCC`, `DDDDDDDDDD`];
-let resultF = largeName(names2);
-console.log(resultF);
+let resultF2 = largeName(names2);
+console.log(resultF2);
+
